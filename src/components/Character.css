@@ -1,0 +1,9 @@
+.Face {
+  width: 550px;
+  height: 600px;
+}
+
+.CharacterPage {
+	display: flex;
+	justify-content: center;
+}
